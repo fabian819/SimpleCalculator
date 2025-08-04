@@ -18,10 +18,6 @@ elif operator == '/':
         print(num1 / num2)
     else:
         print("Error: Division by zero is not allowed.")
-elif operator == '%':
-    if num2 != 0:
-        print(num1 % num2)
-    else:
-        print("Error: Division by zero is not allowed.")
+
 
 
